@@ -31,7 +31,8 @@ Based on the temperature results of two months, Oahu is an ideal place for a Sur
 2. The temperature variation in December while relatively low is still higher than June with a std deviation of 3.75 vs June at 3.25.  That being said, the low coefficients of variation (std/mean) for June and December are less than 1 which indicate that the temperatures are consistent during each month:  .04 for June and .05 for December
 3. The minimum temperature in December is 56 degrees and less than 69 degrees 25% of the time versus June at 64 degrees and less than 73 degrees 25% of the time.  There will be some cool periods during December that may impact sales and the shop should look at measures to address this such as renting wet suits and adjusting hours of operation.
 
-  ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/June_temp_stats.png) ![GitHubLogo](thttps://github.com/rciminera/Surfs_Up/blob/main/Dec_temp_stats.png)
+  ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/June_temp_stats.png) 
+  ![GitHubLogo](thttps://github.com/rciminera/Surfs_Up/blob/main/Dec_temp_stats.png)
 
 
 To refine this analyis there are at least three additional queries that should be provided for June and December:
@@ -44,4 +45,5 @@ To refine this analyis there are at least three additional queries that should b
 
 Example of precipitation analysis:
 
-  ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/June_rain.png) ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/Dec_rain.png)
+  ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/June_rain.png) 
+  ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/Dec_rain.png)
