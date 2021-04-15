@@ -23,7 +23,7 @@ Following is an example of the code used to extract temperatures from the month 
 
 
 
-Results:
+## Results:
 
 Based on the temperature results of two months, Oahu is an ideal place for a Surf and Ice cream shop.  
 
