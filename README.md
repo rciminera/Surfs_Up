@@ -32,6 +32,7 @@ Based on the temperature results of two months, Oahu is an ideal place for a Sur
 3. The minimum temperature in December is 56 degrees and less than 69 degrees 25% of the time versus June at 64 degrees and less than 73 degrees 25% of the time.  There will be some cool periods during December that may impact sales and the shop should look at measures to address this such as renting wet suits and adjusting hours of operation.
 
   ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/June_temp_stats.png) 
+  
   ![GitHubLogo](thttps://github.com/rciminera/Surfs_Up/blob/main/Dec_temp_stats.png)
 
 
@@ -46,4 +47,5 @@ To refine this analyis there are at least three additional queries that should b
 Example of precipitation analysis:
 
   ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/June_rain.png) 
+  
   ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/Dec_rain.png)
