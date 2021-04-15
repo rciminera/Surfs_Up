@@ -33,7 +33,7 @@ Based on the temperature results of two months, Oahu is an ideal place for a Sur
 
   ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/June_temp_stats.png) 
   
-  ![GitHubLogo](thttps://github.com/rciminera/Surfs_Up/blob/main/Dec_temp_stats.png)
+  ![GitHubLogo](https://github.com/rciminera/Surfs_Up/blob/main/Dec_temp_stats.png)
 
 
 To refine this analyis there are at least three additional queries that should be provided for June and December:
